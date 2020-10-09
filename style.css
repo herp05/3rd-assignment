@@ -1,0 +1,48 @@
+li{
+	display: inline-block;
+}
+a{
+	padding: 10px;
+}
+body{
+	background-color: lightyellow;
+}
+.firstp{
+	padding-top: 7px;
+}
+nav{
+	padding-top: 7px;
+}
+h1, h2{
+	font-family: cursive;
+}
+.container{
+	background-color: black;
+	max-width: 650px;
+	margin: 0px auto;
+}
+.col{
+	background: lightyellow;
+	float: left;
+	padding: 10px;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+.c33{
+	width: 33.3333333333%;
+}
+.c25{
+	width: 25%;
+}
+.c50{
+	width: 50%;
+}
+.c66{
+	width: 66.6666666666%;
+}
+.c75{
+	width: 75%;
+}
+
+
+
